@@ -1,7 +1,6 @@
 USE PracticaS12;
 GO
 
-
 CREATE PROCEDURE ObtenerComprasPendientes
 AS
 BEGIN
@@ -13,7 +12,6 @@ GO
 
 DROP PROCEDURE IF EXISTS ObtenerComprasPendientes;
 GO
-
 
 CREATE PROCEDURE RegistrarAbono
     @Id_Compra BIGINT,
@@ -35,10 +33,27 @@ BEGIN
 
     COMMIT TRANSACTION;
 END;
+GO
 
-
+CREATE PROCEDURE ConsultaPrincipal
+AS
+BEGIN
+    SELECT Id_Compra, Precio, Saldo, Descripcion, Estado
+    FROM Principal
+    ORDER BY 
+        CASE 
+            WHEN Estado = 'Pendiente' THEN 0
+            ELSE 1
+        END, 
+        Id_Compra;
+END
+GO
 
 SELECT * FROM Principal WHERE Estado = 'Pendiente';
 EXEC ObtenerComprasPendientes;
 
+SELECT * FROM Principal;
+SELECT * FROM Abonos;
+
+EXEC ConsultaPrincipal;
 

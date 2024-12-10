@@ -1,0 +1,64 @@
+﻿@model List<WebPractica3.Models.Principal>
+
+<body>
+    <div class="container">
+        <div class="text-center">
+            <h1 class="excel-cell">Consulta</h1>
+        </div>
+        <div class="table-container">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Código Compra</th>
+                        <th>Descripción</th>
+                        <th>Precio</th>
+                        <th>Saldo</th>
+                        <th>Estado</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Id_Compra</td>
+                            <td>@item.Descripcion</td>
+                            <td>@item.Precio</td>
+                            <td>@item.Saldo</td>
+                            <td>@item.Estado</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <style>
+        .text-center {
+            text-align: center;
+        }
+
+        .excel-cell {
+            display: inline-block;
+            padding: 15px 150px;
+            border: 1px solid #000;
+            background-color: #fff;
+            font-size: 24px;
+            margin-top: 20px;
+        }
+
+        .table {
+            width: 100%;
+            margin-top: 20px;
+        }
+
+        .table-bordered {
+            border: 1px solid #000;
+            border-collapse: collapse;
+        }
+
+        .table th, .table td {
+            padding: 10px;
+            border: 1px solid #000;
+            text-align: center;
+        }
+    </style>
+</body>
