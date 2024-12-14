@@ -10,9 +10,6 @@ BEGIN
 END
 GO
 
-DROP PROCEDURE IF EXISTS ObtenerComprasPendientes;
-GO
-
 CREATE PROCEDURE RegistrarAbono
     @Id_Compra BIGINT,
     @Monto DECIMAL(18, 2)
@@ -57,3 +54,7 @@ SELECT * FROM Abonos;
 
 EXEC ConsultaPrincipal;
 
+
+
+DROP PROCEDURE IF EXISTS ObtenerComprasPendientes;
+GO

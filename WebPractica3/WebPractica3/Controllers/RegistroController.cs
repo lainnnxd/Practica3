@@ -14,7 +14,7 @@ namespace WebPractica3.Controllers
             _clientFactory = clientFactory;
         }
 
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Registro()
         {
             var client = _clientFactory.CreateClient("PracticaApi");
             var response = await client.GetAsync("Compras/Pendientes"); 
@@ -22,11 +22,11 @@ namespace WebPractica3.Controllers
             if (response.IsSuccessStatusCode)
             {
                 var compras = await response.Content.ReadFromJsonAsync<List<Compra>>();
-                return View("~/Views/Home/Registro.cshtml", compras); 
+                return View("~/Views/Registro/Registro.cshtml", compras); 
             }
 
           
-            return View("~/Views/Home/Registro.cshtml", new List<Compra>());
+            return View("~/Views/Registro/Registro.cshtml", new List<Compra>());
         }
 
 

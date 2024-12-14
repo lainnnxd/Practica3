@@ -23,7 +23,7 @@ namespace WebPractica3.Controllers
 
                 if (response.IsSuccessStatusCode)
                 {
-                    // Verifica si la respuesta contiene datos
+   
                     var datos = await response.Content.ReadFromJsonAsync<List<Principal>>();
 
                     if (datos == null || !datos.Any())

@@ -1,34 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\FID\u00C9LITAS\\2k24\\3\\Progra Avanzada\\Tareas\\Practica3\\WebPractica3\\",
+  "WorkspaceRootPath": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|e:\\fid\u00E9litas\\2k24\\3\\progra avanzada\\tareas\\practica3\\webpractica3\\webpractica3\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|solutionrelative:webpractica3\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|h:\\projects\\c#\\2024 iiic\\tareas\\practica3\\webpractica3\\webpractica3\\views\\consulta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|solutionrelative:webpractica3\\views\\consulta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|e:\\fid\u00E9litas\\2k24\\3\\progra avanzada\\tareas\\practica3\\webpractica3\\webpractica3\\views\\home\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|solutionrelative:webpractica3\\views\\home\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|e:\\fid\u00E9litas\\2k24\\3\\progra avanzada\\tareas\\practica3\\webpractica3\\webpractica3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|h:\\projects\\c#\\2024 iiic\\tareas\\practica3\\webpractica3\\webpractica3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|solutionrelative:webpractica3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|e:\\fid\u00E9litas\\2k24\\3\\progra avanzada\\tareas\\practica3\\webpractica3\\webpractica3\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|solutionrelative:webpractica3\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|h:\\projects\\c#\\2024 iiic\\tareas\\practica3\\webpractica3\\webpractica3\\views\\registro\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|solutionrelative:webpractica3\\views\\registro\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|e:\\fid\u00E9litas\\2k24\\3\\progra avanzada\\tareas\\practica3\\webpractica3\\webpractica3\\models\\abono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|solutionrelative:webpractica3\\models\\abono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|h:\\projects\\c#\\2024 iiic\\tareas\\practica3\\webpractica3\\webpractica3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|solutionrelative:webpractica3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|e:\\fid\u00E9litas\\2k24\\3\\progra avanzada\\tareas\\practica3\\webpractica3\\webpractica3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|h:\\projects\\c#\\2024 iiic\\tareas\\practica3\\webpractica3\\webpractica3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|solutionrelative:webpractica3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|h:\\projects\\c#\\2024 iiic\\tareas\\practica3\\webpractica3\\webpractica3\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|solutionrelative:webpractica3\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|h:\\projects\\c#\\2024 iiic\\tareas\\practica3\\webpractica3\\webpractica3\\controllers\\consultacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|solutionrelative:webpractica3\\controllers\\consultacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|h:\\projects\\c#\\2024 iiic\\tareas\\practica3\\webpractica3\\webpractica3\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|solutionrelative:webpractica3\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|h:\\projects\\c#\\2024 iiic\\tareas\\practica3\\webpractica3\\webpractica3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|solutionrelative:webpractica3\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|h:\\projects\\c#\\2024 iiic\\tareas\\practica3\\webpractica3\\webpractica3\\wwwroot\\css\\table.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|solutionrelative:webpractica3\\wwwroot\\css\\table.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|h:\\projects\\c#\\2024 iiic\\tareas\\practica3\\webpractica3\\webpractica3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|solutionrelative:webpractica3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|e:\\fid\u00E9litas\\2k24\\3\\progra avanzada\\tareas\\practica3\\webpractica3\\webpractica3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|solutionrelative:webpractica3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|h:\\projects\\c#\\2024 iiic\\tareas\\practica3\\webpractica3\\webpractica3\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|solutionrelative:webpractica3\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|h:\\projects\\c#\\2024 iiic\\tareas\\practica3\\webpractica3\\webpractica3\\models\\abono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D23DB66-2E59-446C-B7AA-B459E3846A88}|WebPractica3\\WebPractica3.csproj|solutionrelative:webpractica3\\models\\abono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +62,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsultaController.cs",
+              "DocumentMoniker": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Controllers\\ConsultaController.cs",
+              "RelativeDocumentMoniker": "WebPractica3\\Controllers\\ConsultaController.cs",
+              "ToolTip": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Controllers\\ConsultaController.cs",
+              "RelativeToolTip": "WebPractica3\\Controllers\\ConsultaController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T08:55:14.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -54,105 +95,160 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\FID\u00C9LITAS\\2k24\\3\\Progra Avanzada\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Views\\Consulta\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebPractica3\\Views\\Consulta\\Index.cshtml",
+              "ToolTip": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Views\\Consulta\\Index.cshtml",
+              "RelativeToolTip": "WebPractica3\\Views\\Consulta\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T06:28:59.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.js",
+              "DocumentMoniker": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "WebPractica3\\wwwroot\\js\\site.js",
+              "ToolTip": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "WebPractica3\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-14T06:25:39.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebPractica3\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\FID\u00C9LITAS\\2k24\\3\\Progra Avanzada\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebPractica3\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-07T19:31:51.1Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Abono.cs",
-              "DocumentMoniker": "E:\\FID\u00C9LITAS\\2k24\\3\\Progra Avanzada\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Models\\Abono.cs",
-              "RelativeDocumentMoniker": "WebPractica3\\Models\\Abono.cs",
-              "ToolTip": "E:\\FID\u00C9LITAS\\2k24\\3\\Progra Avanzada\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Models\\Abono.cs",
-              "RelativeToolTip": "WebPractica3\\Models\\Abono.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T19:47:14.818Z",
+              "DocumentIndex": 9,
+              "Title": "table.css",
+              "DocumentMoniker": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\wwwroot\\css\\table.css",
+              "RelativeDocumentMoniker": "WebPractica3\\wwwroot\\css\\table.css",
+              "ToolTip": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\wwwroot\\css\\table.css",
+              "RelativeToolTip": "WebPractica3\\wwwroot\\css\\table.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-14T06:32:04.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebPractica3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebPractica3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T06:32:13.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Abono.cs",
+              "DocumentMoniker": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Models\\Abono.cs",
+              "RelativeDocumentMoniker": "WebPractica3\\Models\\Abono.cs",
+              "ToolTip": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Models\\Abono.cs",
+              "RelativeToolTip": "WebPractica3\\Models\\Abono.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:47:14.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Compra.cs",
-              "DocumentMoniker": "E:\\FID\u00C9LITAS\\2k24\\3\\Progra Avanzada\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Models\\Compra.cs",
+              "DocumentMoniker": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Models\\Compra.cs",
               "RelativeDocumentMoniker": "WebPractica3\\Models\\Compra.cs",
-              "ToolTip": "E:\\FID\u00C9LITAS\\2k24\\3\\Progra Avanzada\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Models\\Compra.cs",
+              "ToolTip": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Models\\Compra.cs",
               "RelativeToolTip": "WebPractica3\\Models\\Compra.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T19:46:33.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T19:46:33.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Registro.cshtml",
-              "DocumentMoniker": "E:\\FID\u00C9LITAS\\2k24\\3\\Progra Avanzada\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Views\\Home\\Registro.cshtml",
-              "RelativeDocumentMoniker": "WebPractica3\\Views\\Home\\Registro.cshtml",
-              "ToolTip": "E:\\FID\u00C9LITAS\\2k24\\3\\Progra Avanzada\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Views\\Home\\Registro.cshtml",
-              "RelativeToolTip": "WebPractica3\\Views\\Home\\Registro.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T19:29:07.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "RegistroController.cs",
-              "DocumentMoniker": "E:\\FID\u00C9LITAS\\2k24\\3\\Progra Avanzada\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Controllers\\RegistroController.cs",
+              "DocumentMoniker": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Controllers\\RegistroController.cs",
               "RelativeDocumentMoniker": "WebPractica3\\Controllers\\RegistroController.cs",
-              "ToolTip": "E:\\FID\u00C9LITAS\\2k24\\3\\Progra Avanzada\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Controllers\\RegistroController.cs",
+              "ToolTip": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Controllers\\RegistroController.cs",
               "RelativeToolTip": "WebPractica3\\Controllers\\RegistroController.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAswDAAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T19:28:33.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\FID\u00C9LITAS\\2k24\\3\\Progra Avanzada\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Program.cs",
-              "RelativeDocumentMoniker": "WebPractica3\\Program.cs",
-              "ToolTip": "E:\\FID\u00C9LITAS\\2k24\\3\\Progra Avanzada\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Program.cs",
-              "RelativeToolTip": "WebPractica3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T19:24:50.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\FID\u00C9LITAS\\2k24\\3\\Progra Avanzada\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\appsettings.json",
+              "DocumentMoniker": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\appsettings.json",
               "RelativeDocumentMoniker": "WebPractica3\\appsettings.json",
-              "ToolTip": "E:\\FID\u00C9LITAS\\2k24\\3\\Progra Avanzada\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\appsettings.json",
+              "ToolTip": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\appsettings.json",
               "RelativeToolTip": "WebPractica3\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-07T19:24:18.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registro.cshtml",
+              "DocumentMoniker": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Views\\Registro\\Registro.cshtml",
+              "RelativeDocumentMoniker": "WebPractica3\\Views\\Registro\\Registro.cshtml",
+              "ToolTip": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Views\\Registro\\Registro.cshtml",
+              "RelativeToolTip": "WebPractica3\\Views\\Registro\\Registro.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T19:29:07.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebPractica3\\wwwroot\\css\\site.css",
+              "ToolTip": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebPractica3\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-14T08:09:30.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Program.cs",
+              "RelativeDocumentMoniker": "WebPractica3\\Program.cs",
+              "ToolTip": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\Program.cs",
+              "RelativeToolTip": "WebPractica3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:24:50.016Z",
               "EditorCaption": ""
             }
           ]

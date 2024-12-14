@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\FIDÉLITAS\\2k24\\3\\Progra Avanzada\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\WebPractica3.csproj": {}
+    "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\WebPractica3.csproj": {}
   },
   "projects": {
-    "E:\\FIDÉLITAS\\2k24\\3\\Progra Avanzada\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\WebPractica3.csproj": {
+    "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\WebPractica3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FIDÉLITAS\\2k24\\3\\Progra Avanzada\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\WebPractica3.csproj",
+        "projectUniqueName": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\WebPractica3.csproj",
         "projectName": "WebPractica3",
-        "projectPath": "E:\\FIDÉLITAS\\2k24\\3\\Progra Avanzada\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\WebPractica3.csproj",
-        "packagesPath": "C:\\Users\\lians\\.nuget\\packages\\",
-        "outputPath": "E:\\FIDÉLITAS\\2k24\\3\\Progra Avanzada\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\obj\\",
+        "projectPath": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\WebPractica3.csproj",
+        "packagesPath": "C:\\Users\\antho\\.nuget\\packages\\",
+        "outputPath": "H:\\PROJECTS\\C#\\2024 IIIC\\Tareas\\Practica3\\WebPractica3\\WebPractica3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "E:\\Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lians\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\antho\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

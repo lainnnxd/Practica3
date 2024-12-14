@@ -1,13 +1,22 @@
-﻿<div class="container mt-5">
-    <div class="row justify-content-center">
-        <div class="col-md-8 text-center">
-            <h1 class="mb-4">Bienvenido al Sistema de Gestión</h1>
-            <p class="lead">
-                Administra tus compras y abonos fácilmente. Haz clic en el botón a continuación para registrar un nuevo abono.
-            </p>
-            <a href="@Url.Action("Index", "Registro")" class="btn btn-primary btn-lg mt-3">
-                Registrar Abono
-            </a>
+﻿<div>
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-8 text-center">
+                <h1 class="mb-4">Bienvenido al Sistema de Gestión</h1>
+                <p class="lead">
+                    Administra tus compras y abonos fácilmente. Haz clic en el botón a continuación para registrar un nuevo abono.
+                </p>
+                <div class="guide-bottoms">
+                    <a href="@Url.Action("Index", "Consulta")" class="btn btn-primary btn-lg mt-3">
+                        Consulta
+                    </a>
+                    <a href="@Url.Action("Registro", "Registro")" class="btn btn-primary btn-lg mt-3">
+                        Registrar Abono
+                    </a>
+                </div>
+               
+            </div>
         </div>
     </div>
 </div>
+
